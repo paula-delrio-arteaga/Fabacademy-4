@@ -93,7 +93,9 @@ To adjust the settings of the machine we used arduino serial monitor $$
 - Acrylic scraps 5mm for the mat mold.
 - Arduino 1 
 - Fabric
-- Spirulina Ink
+- Spirulina Powder
+- Goma xantana
+- Benzonato sosa
 
 ### IT WORKS! 
 
