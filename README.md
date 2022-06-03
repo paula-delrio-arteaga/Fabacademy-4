@@ -20,6 +20,10 @@ Thinking on MDEFest our aim is of turning our projects into a more co-creative c
 
 ### Planing
 
+Andrea: Connect the arduino sensor to P5js, Interface noise drwaings trials, define the code, making and casting molds, laser cut box.
+Paula: Planning ahead (materials), Made the ink, Make the sensor work, Make the penploter work, Design 3D penholder, making and casting molds.
+Both and Josep: connecting the p5js Processing to g-code and send to the penplotter.
+
 ![plan](/Images/planing.jpeg)
 
 
