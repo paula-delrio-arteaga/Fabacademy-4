@@ -35,7 +35,7 @@ We connected an Arduino 1 by serial monitor reading a numerical values vibration
 
 ![Arduino](/Images/arduino-sensor.jpg)
 
-![system](/Images/system diagram.jpg)
+![diagram](/Images/system_diagram.jpg)
 
 ### Divided and conquer:
 
