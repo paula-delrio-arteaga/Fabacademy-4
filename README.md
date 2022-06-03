@@ -47,9 +47,7 @@ We connected an Arduino 1 by serial monitor reading a numerical values vibration
 
 - Make the sensor work on its own and understand the values. Connect the arduino to processing.
 - Simultaneously we were working on the design of the interface of processing which needed most of our time, testing different drawings: 
-- 
-https://github.com/paula-delrio-arteaga/Fabacademy-4/blob/Master/images/vid03.mp4
-
+[video](https://github.com/paula-delrio-arteaga/Fabacademy-4/blob/db49cc61e70f8bff240725c692638bb67e4ce582/images/vid03.mp4)
 
 - We aimed to use the Kraken machine that it works like a 3D printed, but the connections were misleading and we ended up using the Penploter. We first were sure how to move it and redefine the values of speed, amount of steps and the work area.
 - 
