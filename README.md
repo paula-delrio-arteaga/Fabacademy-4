@@ -20,7 +20,7 @@ Thinking on MDEFest our aim is of turning our projects into a more co-creative c
 
 #### Planing
 
-[plan] (/Images/planing.jpeg)
+![plan](/Images/planing.jpeg)
 
 
 #### Purpose:
