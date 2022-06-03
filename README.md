@@ -46,8 +46,14 @@ We connected an Arduino 1 by serial monitor reading a numerical values vibration
 ![Alginate](/Images/alginate-mold-2.JPG)
 
 - Make the sensor work on its own and understand the values. Connect the arduino to processing.
+
 - Simultaneously we were working on the design of the interface of processing which needed most of our time, testing different drawings: 
-[video](https://github.com/paula-delrio-arteaga/Fabacademy-4/blob/db49cc61e70f8bff240725c692638bb67e4ce582/images/vid03.mp4)
+
+
+
+https://user-images.githubusercontent.com/92103073/171876570-fed0ea76-d583-4755-b0d2-4a728758cf53.mp4
+
+
 
 - We aimed to use the Kraken machine that it works like a 3D printed, but the connections were misleading and we ended up using the Penploter. We first were sure how to move it and redefine the values of speed, amount of steps and the work area.
 - 
@@ -58,7 +64,37 @@ We connected an Arduino 1 by serial monitor reading a numerical values vibration
 ![Ink](/Images/inki-loading.JPG)
 ![Ink](/Images/ink-fabric.JPG)
 
-
-
 - Design 3D printed Penholder
+![Ink](/Images/3d-holder.jpg)
 
+
+
+
+#### Find creative solutions: 
+
+- Giving a second use to a machine already made by our peers. 
+- Simplify the drawings for the machine. 
+
+
+#### List of material: 
+- Alginate for molds
+- Silicone ecoflex 50
+- Dragon skin silicone
+- Vibration Sensor 
+- Acrylic scraps 5mm for the mat mold.
+- Arduino 1 
+- Fabric
+- Spirulina Ink
+
+### IT WORKS! 
+
+
+
+#### Replicability: 
+
+All the code is uploaded on this repository but the pen plotter has its own files on the other repo. 
+
+
+### It's been a pleasure: 
+
+![bye](/Images/goodbye.gif)
