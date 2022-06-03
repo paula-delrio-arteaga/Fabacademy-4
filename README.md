@@ -55,8 +55,14 @@ https://user-images.githubusercontent.com/92103073/171876570-fed0ea76-d583-4755-
 
 
 
-- We aimed to use the Kraken machine that it works like a 3D printed, but the connections were misleading and we ended up using the Penploter. We first were sure how to move it and redefine the values of speed, amount of steps and the work area.
-- 
+https://user-images.githubusercontent.com/92103073/171876705-923b5e2b-3e90-4899-a57c-c9788b2e83eb.mp4
+
+
+
+
+
+- We aimed to use the Kraken machine that it works like a 3D printed, but the connections were misleading and we ended up using the Penploter. We first were sure how to move it and redefine the values of speed, amount of steps and the work area. 
+To adjust the settings of the machine we used arduino serial monitor $$ 
 ![Ink](/Images/kraken.JPG)
 
 - Make the ink and test it on the fabric and paper. 
@@ -67,6 +73,9 @@ https://user-images.githubusercontent.com/92103073/171876570-fed0ea76-d583-4755-
 - Design 3D printed Penholder
 ![Ink](/Images/3d-holder.jpg)
 
+- Box mold for the fingers carpet:
+
+![DEDOS](https://user-images.githubusercontent.com/92103073/171877497-156a2839-be59-4fd1-9a31-0376d2d1e7d4.jpeg)
 
 
 
@@ -87,6 +96,16 @@ https://user-images.githubusercontent.com/92103073/171876570-fed0ea76-d583-4755-
 - Spirulina Ink
 
 ### IT WORKS! 
+
+
+
+https://user-images.githubusercontent.com/92103073/171877266-7b2d7ad6-5f17-42ee-abfc-17554f04f882.mp4
+
+
+
+https://user-images.githubusercontent.com/92103073/171877120-94ad6241-2c18-490b-b786-031ab34dce29.mp4
+
+
 
 
 
