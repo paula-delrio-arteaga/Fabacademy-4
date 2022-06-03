@@ -33,3 +33,34 @@ During the workshop we’ll host in MDEFest the subjects will create different d
 
 We connected an Arduino 1 by serial monitor reading a numerical values vibration sensor, then the Arduino code was connected to Processing and associates the values of the sensor to a graphical representation. This Artwork is generated with a noise equation which we constrained to 5 loop functions with a threshold that we tested on the sensor. The output is afterwards translated into X and Y coordinates by processing that builds a G-code which is sent it by serial directly to the other Arduino which controls the Pen plotter. Having a sensation of a real-time drawing made from the interaction of the user.
 
+![Arduino](/Images/arduino-sensor.jpg)
+
+![system](/Images/system diagram.jpg)
+
+#### Divided and conquer:
+
+- Alginate molds of different people’s fingers that afterwards were casted on silicone to create a negative of Plaster that will allow us to cast many fingers since the alginate gives a lot of resolution but it shrinks a lot after a while. 
+
+![Alginate](/Images/alginate-mixing.JPG)
+![Alginate](/Images/alginate-mold.JPG)
+![Alginate](/Images/alginate-mold-2.JPG)
+
+- Make the sensor work on its own and understand the values. Connect the arduino to processing.
+- Simultaneously we were working on the design of the interface of processing which needed most of our time, testing different drawings: 
+- 
+https://github.com/paula-delrio-arteaga/Fabacademy-4/blob/Master/images/vid03.mp4
+
+
+- We aimed to use the Kraken machine that it works like a 3D printed, but the connections were misleading and we ended up using the Penploter. We first were sure how to move it and redefine the values of speed, amount of steps and the work area.
+- 
+![Ink](/Images/kraken.JPG)
+
+- Make the ink and test it on the fabric and paper. 
+![Ink](/Images/ink-making.JPG)
+![Ink](/Images/inki-loading.JPG)
+![Ink](/Images/ink-fabric.JPG)
+
+
+
+- Design 3D printed Penholder
+
