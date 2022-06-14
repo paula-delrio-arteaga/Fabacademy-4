@@ -31,7 +31,7 @@ Both and Josep: connecting the p5js Processing to g-code and send to the penplot
 ### Purpose:
 Our purpose is to give the subject a more engaging experience when interacting with technology and having an output that will remind us of organic shapes found in nature. Like this, we also express how our actions have an impact on nature. We are advocating for a new paradigm in which humans could use technology to consciously interact with nature for a beneficial reciprocal relationship. 
 
-During the workshop we’ll host in MDEFest the subjects will create different designs, printed on fabrics with spirulina ink, that afterwards are gonna be laser cut into shapes for simple wearables that they could use during the Symbiátipico Party, to bring the subjects closer to the concept of being a Bioborg. Testing the alternative present bioborg proposes in a real-life eve
+During the workshop we’ll host in MDEFest the subjects will create different designs, printed on fabrics with spirulina ink, that afterwards are gonna be laser cut into shapes for simple wearables that they could use during the Symbiátipico Party, to bring the subjects closer to the concept of being a Bioborg. Testing the alternative present bioborg proposes in a real-life event.
 
 
 ### System diagram:
